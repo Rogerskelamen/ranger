@@ -5,3 +5,16 @@
 ## Command(./commands.py)
 
 the `compress` and `extract` commands can't work on MacOS
+
+## Installed Plugins
+
+- `ranger-devicons`
+
+- `devicons2`
+
+along with `ranger-devicons`, both add devicon to ranger.
+
+- `ranger-zjumper`
+
+to cooperate with zsh jump tool -> `z`
+
